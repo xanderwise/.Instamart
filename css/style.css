@@ -1,0 +1,39 @@
+form{
+    background-color: #837f7c;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px #0d0e0e;
+}
+
+legend{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 4px 4px 4px #ffffff;
+    text-decoration: underline;
+}
+
+input[type=text],input[type=email],input[type=password],input[type=number],input[type=tel],select{
+    width: 70%;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 10px;
+    padding-left: 20px;
+    box-shadow: 4px 4px 4px #ff5106;
+}
+
+button{
+    background-color: #0d0e0e;
+    color: #ff5106;
+    width: 30%;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 20px;
+    display: block;
+    margin: 0 auto;
+}
+p{
+    font-size: 30px;
+}
